@@ -22,10 +22,10 @@ Install dependencies with Poetry:
     poetry install
 Run the FastAPI backend:
     
-    poetry run TODO
+    poetry run #TODO
 In a separate terminal, run the Streamlit dashboard:
     
-    poetry run TODO
+    poetry run #TODO
 Access the applications:
     
         FastAPI: http://localhost:8000
